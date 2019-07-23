@@ -1,4 +1,4 @@
-/*package lab5;
+package lab5;
 
 import java.io.File;
 import java.util.List;
